@@ -1,0 +1,8 @@
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assignments\A24\Assignment24\Assignment24\bin\Debug\Assignment24.exe.config
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assignments\A24\Assignment24\Assignment24\bin\Debug\Assignment24.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assignments\A24\Assignment24\Assignment24\bin\Debug\Assignment24.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assignments\A24\Assignment24\Assignment24\obj\Debug\Assignment24.csproj.AssemblyReference.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assignments\A24\Assignment24\Assignment24\obj\Debug\Assignment24.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assignments\A24\Assignment24\Assignment24\obj\Debug\Assignment24.csproj.CoreCompileInputs.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assignments\A24\Assignment24\Assignment24\obj\Debug\Assignment24.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assignments\A24\Assignment24\Assignment24\obj\Debug\Assignment24.pdb
